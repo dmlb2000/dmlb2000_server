@@ -1,1 +1,1 @@
-default['samba']['interfaces']           = 'lo eth0'
+default['samba']['interfaces'] = 'lo eth0'
