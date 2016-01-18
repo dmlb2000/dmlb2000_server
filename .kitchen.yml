@@ -19,3 +19,5 @@ suites:
     run_list:
       - recipe[dmlb2000_server::default]
     attributes:
+      samba:
+        interfaces: 'lo eth0'
