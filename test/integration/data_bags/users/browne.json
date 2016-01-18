@@ -1,0 +1,10 @@
+{
+  "id": "browne",
+  "smbpasswd": "unicorn",
+  "shell": "/bin/bash",
+  "ssh_keys": [],
+  "groups": [],
+  "uid": 1001,
+  "shell": "\/bin\/bash",
+  "comment": "Erin Brown"
+}

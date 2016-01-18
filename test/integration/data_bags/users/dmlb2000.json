@@ -1,0 +1,12 @@
+{
+  "id": "dmlb2000",
+  "smbpasswd": "dmlb336",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDscN/fgmoWSt6LHtIw+MA/TJVFkLKFrZECEMf8SN9IakcpZW0KQzjci//n0A5vDiuWs84JSniljHaMdWpI03+s3WPuQuq3YVvOpOVimqpujb634IbWEOuHCRQ6cnLGeapeMNZ8Hi2nHF5b9mQmbop7TCQVYAfFj0vrAh4ToSvOfmXrpfqromdpiYNl2RJOdJggUgxuYYDyyrS4vYyYTtYRHuxm+SyGy+sUtItQyN2qEz/zGXC8uwypcKN6Olh73p7Ob1khTi8Lnsd8voIYk+9ujIorTMVngWNfyW8xk9lyBgkU90gu8RGL0pQVfDWzn1/o2fqpB/ccVPp92BfAILAj dmlb2000@uber-gamer.homelinux.org"
+  ],
+  "groups": [ "wheel", "kvm", "mock" ],
+  "uid": 1000,
+  "shell": "/bin/bash",
+  "comment": "David ML Brown Jr"
+}
