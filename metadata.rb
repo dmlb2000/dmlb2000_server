@@ -4,7 +4,7 @@ maintainer_email 'you@example.com'
 license 'all_rights'
 description 'Installs/Configures dmlb2000_server'
 long_description 'Installs/Configures dmlb2000_server'
-version '0.1.1'
+version '0.1.2'
 
 depends 'zfs_linux'
 depends 'samba'
